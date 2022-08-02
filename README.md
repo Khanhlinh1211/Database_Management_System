@@ -11,7 +11,7 @@ You can download the Northwind database from my GitHub repo. Here’s the two fi
   
   The Northwind dataset includes sample data for the following:
   <ul>
-    <li>*Suppliers*: Suppliers and vendors of Northwind</li>
+    <li>**Suppliers**: Suppliers and vendors of Northwind</li>
     <li> Customers: Customers who buy products from Northwind</li>
     <li>Products: Product information</li>
     <li>Orders and Order_Details: Sales Order transactions taking place between the customers & the company</li>
