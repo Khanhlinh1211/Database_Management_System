@@ -22,5 +22,8 @@ This is the Compact Northwind Database's combined entity diagram:
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/106904941/182343178-8f4a5d8a-a3c2-457d-bdd5-cc05b0fdba86.png">
 
 # Using SQL to query requirements 
-  I put my SQL skills to the project, using subqueries, multiple joins, set operations, aggregate functions and more.
-  You can get detailed my query from my GitHub repo: <a href="https://github.com/Khanhlinh1211/Database_Management_System/blob/main/Queired%20using%20SQL.sql">Queired using SQL.sql</a>
+  I put my SQL skills to the project, using subqueries, multiple joins, set operations, aggregate functions and more. <br>
+  You can get detailed my query from my GitHub repo: 
+  <ul>
+    <li><a href="https://github.com/Khanhlinh1211/Database_Management_System/blob/main/Queired%20using%20SQL.sql">Queired using SQL.sql</a></li>
+  </ul>
