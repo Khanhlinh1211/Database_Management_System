@@ -5,7 +5,7 @@ In this project, we will use the Northwind database, which contains sales data f
 ## About the Datasets 
 You can download the Northwind database from my GitHub repo. Here’s the two files you’ll need:
   <ul>
-      <li> <a href="https://github.com/Khanhlinh1211/Database_Management_System/blob/main/sample-model.sql">sample-model.sql which creates tables and other database objects</a>  </li>
+      <li> <a href="https://github.com/Khanhlinh1211/Database_Management_System/blob/main/sample-model.sql">sample-model.sql</a>  which creates tables and other database objects </li>
       <li> sample-data.sql which loads the sample data into Northwind </li>
   </ul>
   
